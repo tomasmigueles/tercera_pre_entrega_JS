@@ -1,0 +1,14 @@
+body {
+    padding-top: 20px;
+}
+
+.product-item {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.product-item button {
+    margin-top: 10px;
+}
